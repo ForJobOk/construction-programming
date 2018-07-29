@@ -23,14 +23,16 @@ namespace BMI
             float bmi; 
             float w;
             float h;
+            string weight;
+            string height;
             string result;
 
             
 
-            string weight = textBox1.Text; //入力した体重を変数に代入
+             weight = textBox1.Text; //入力した体重を変数に代入
              w  = float.Parse(weight);　//文字列として取得した体重を数値に型変換
 
-            string height = textBox2.Text; //入力した身長を変数に代入
+             height = textBox2.Text; //入力した身長を変数に代入
              h = float.Parse(height); //文字列として取得した身長を数値に型変換
 
 
