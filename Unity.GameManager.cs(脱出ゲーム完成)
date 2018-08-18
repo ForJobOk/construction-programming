@@ -1,4 +1,9 @@
-﻿using System.Collections;
+//学習内容
+//UIパーツの使い方
+//ボタンの使い方
+//パブリック変数でスクリプトとゲームオブジェクトを連携させる
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
