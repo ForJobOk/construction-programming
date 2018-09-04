@@ -1,4 +1,6 @@
-﻿using System;
+//使用した制御構文　配列：型[]変数名＝new 型[データの個数]＿＿繰り返し：for(初期化子；条件式；反復式)
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
