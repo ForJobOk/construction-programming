@@ -1,4 +1,6 @@
-﻿using System;
+//使用した制御構文　条件分岐：if(条件式)｛処理｝else if(条件式){処理}
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
